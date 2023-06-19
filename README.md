@@ -1,5 +1,9 @@
 
+
 <h1 align="center">Welcome! I am PawliszakkDev 💻 </h1>
+<p align="center">
+<img alt="pawliszakdev banner" src="https://github.com/Pawliszakk/Pawliszakk/assets/118575646/482d3504-1320-41c9-ae6b-76324a2de5f3"/>
+</p>
 <h3 align="center">A passionate Frontend React Developer</h3>
 <img align="right" alt="coding guy" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nxie4etvxyf1kfjt9l0i70rq00b6fd456zyjh3h3&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 - 🔭 I’m currently working on **Air Conditioning Site Blog**
