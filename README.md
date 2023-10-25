@@ -7,7 +7,7 @@
 </p>
 <h3 align="center">A passionate Frontend React Developer</h3>
 <img align="right" alt="coding guy" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nxie4etvxyf1kfjt9l0i70rq00b6fd456zyjh3h3&ep=v1_gifs_search&rid=giphy.gif&ct=g">
-- 🔭 I’m currently working on www.pawliszakdev.com
+- 🔭 I’m currently working on https://todo-app-full-stack-dun.vercel.app/
 
 - 🌱 I’m currently learning **MERN Technology**
 
