@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Welcome! I am PawliszakkDev 💻 </h1>
+<h1 align="center">Welcome! I am PawliszakDev 💻 </h1>
 <p align="center">
 <img alt="pawliszakdev banner" src="https://github.com/Pawliszakk/Pawliszakk/assets/118575646/c3c4d3c4-b20c-485c-a5ab-91bda2062432"/>
 </p>
